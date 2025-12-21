@@ -24,7 +24,7 @@ This project demonstrates how Python libraries are used to scrape mobile phone d
 - The lists are converted into a pandas DataFrame.
 - The final dataset is saved as a CSV file.
 
-## Important Note
+## Important Note to be considered 
 
 Flipkart frequently changes its HTML structure and CSS class names.  
 Before running the script, always inspect the Flipkart webpage and verify the class names used in the code.  
