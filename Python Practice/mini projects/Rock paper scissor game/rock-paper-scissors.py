@@ -85,4 +85,5 @@ while True:
     if ans == 'n':
         break
 
-print("thanks for playing (●'◡'●)")
+print("thanks for playing...")
+
