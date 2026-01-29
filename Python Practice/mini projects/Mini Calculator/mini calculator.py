@@ -1,4 +1,4 @@
-print('mini calculator')
+print('Mini calculator')
 
 num_1 = int(input('Enter number 1 = '))
 num_2 = int(input('Enter number 2 = '))
