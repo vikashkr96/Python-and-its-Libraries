@@ -36,7 +36,8 @@ print("Row 1 is: " , two_d_lst[0])
 print("Row 2 is: " , two_d_lst[1])
 
 
-# Write a program to find the sum of all elements in a 2D list.
+# Write a program to find the sum of      
+  all elements in a 2D list.
 lst = [ [1,2,3,4] , [5,6,7,8] ]
 sum_row1 = sum(lst[0])
 sum_row2 = sum(lst[1])
