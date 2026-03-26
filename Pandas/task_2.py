@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Sample dataset
+# dataset
 data = {
     'Transaction_ID': [1, 2, 3],
     'Date': ['2023-08-01', '2023-08-02', '2023-08-03'],
