@@ -1,3 +1,5 @@
+#all the html classes of flipkart is dynamically changing with updates so replace the existing classess with latest ones....
+
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
